@@ -1,0 +1,53 @@
+body
+{
+  background-color:yellow;
+}
+h1
+{
+  color:black;
+}
+h2
+{
+  color:red;
+}
+h3
+{
+  color:brown;
+}
+
+#tab{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+hr
+{
+  border-style:none;
+  border-top-style:dotted;
+  width:20%;
+  border-width: 5px;
+}
+#ig{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#om1{
+  border-radius: 70%;
+}
+.dp
+{
+  background-color:black;
+}
+.ek
+{
+  background-color:red;
+  border-radius:100%;
+}
+#heading
+{
+  color:blue;
+}
+img:hover{
+  background-color:gold;
+}
